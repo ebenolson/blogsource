@@ -1,0 +1,5 @@
+*.pyc
+cache
+output
+.ipynb_checkpoints
+*.ipynb-meta
