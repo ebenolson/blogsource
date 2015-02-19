@@ -9,6 +9,7 @@ SITEURL = ''
 PATH = 'content'
 
 ARTICLE_EXCLUDES=['.ipynb_checkpoints',]
+IGNORE_FILES = ['Template.ipynb',]
 
 TIMEZONE = 'America/New_York'
 
